@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "emergency": "Emergency",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Professional Home Services",
+    "subtitle": "Expert solutions for all your home needs - Available 24/7",
+    "cta": "Get Started",
+    "description": "Trusted by thousands of homeowners for quality service and reliability"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for your home",
+    "plumbing": "Plumbing",
+    "plumbingDesc": "Expert plumbing repairs, installations, and maintenance",
+    "electrical": "Electrical",
+    "electricalDesc": "Professional electrical services and safety inspections",
+    "heating": "Heating",
+    "heatingDesc": "Heating system installation and maintenance",
+    "ac": "Air Conditioning",
+    "acDesc": "Cooling solutions and system maintenance",
+    "installation": "Installation",
+    "installationDesc": "Professional installation services for appliances",
+    "repair": "Repair",
+    "repairDesc": "Quick and reliable repair services"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your Trusted Home Service Partner",
+    "description1": "With over 15 years of experience in the home services industry, we pride ourselves on delivering exceptional quality and customer satisfaction.",
+    "description2": "Our team of certified professionals is dedicated to providing reliable, efficient, and affordable solutions for all your home maintenance and repair needs.",
+    "why": "Why Choose Us",
+    "feature1": "24/7 Emergency Services",
+    "feature2": "Certified Professionals",
+    "feature3": "Competitive Pricing",
+    "feature4": "Fast Response Time",
+    "feature5": "100% Satisfaction Guarantee",
+    "feature6": "Fully Insured"
+  },
+  "stats": {
+    "customers": "Happy Customers",
+    "projects": "Projects Completed",
+    "experience": "Years Experience",
+    "team": "Professional Team"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real feedback from satisfied clients",
+    "testimonial1": "Excellent service! The team was professional and fixed the issue quickly.",
+    "client1": "John Anderson",
+    "testimonial2": "Best home service company I've worked with. Highly recommended!",
+    "client2": "Sarah Mitchell",
+    "testimonial3": "Quick response time and fair pricing. Very satisfied with the work.",
+    "client3": "Michael Brown"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Hours",
+    "hoursText": "24/7 Emergency Services Available",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    }
+  },
+  "emergency": {
+    "title": "Emergency Services",
+    "subtitle": "Immediate assistance available 24/7",
+    "description": "When you need help urgently, our emergency team is just a call away.",
+    "callNow": "Call Now",
+    "responseTime": "Average Response Time: 30 Minutes",
+    "available": "Always Available - 24/7/365"
+  },
+  "footer": {
+    "company": "Home Services",
+    "description": "Your trusted partner for all home service needs",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "emergency": "Emergency",
+    "contact": "Contact Info",
+    "followUs": "Follow Us",
+    "copyright": "© 2026 Home Services. All rights reserved."
+  },
+  "common": {
+    "button": "Learn More",
+    "readMore": "Read More",
+    "seeAll": "See All Services",
+    "backToHome": "Back to Home"
+  }
+}
